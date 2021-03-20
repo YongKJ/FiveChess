@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/about.png</file>
+        <file>img/aimodo.png</file>
+        <file>img/black.png</file>
+        <file>img/chessboard.png</file>
+        <file>img/fivechess.png</file>
+        <file>img/game_background.png</file>
+        <file>img/index_background.png</file>
+        <file>img/netmodo.png</file>
+        <file>img/pvpmodo.png</file>
+        <file>img/setting.png</file>
+        <file>img/tip.png</file>
+        <file>img/undo.png</file>
+        <file>img/vioce.png</file>
+        <file>img/white.png</file>
+        <file>img/gameover_fail.png</file>
+        <file>img/gameover_succeed.png</file>
+    </qresource>
+</RCC>
